@@ -21,7 +21,7 @@ print("headers\n", headers)
 
 df.columns = headers
 df.columns
-df.head(10)
+print(df.head(10))
 
 #Question 2: Find the name of the columns of the dataframe.
 
