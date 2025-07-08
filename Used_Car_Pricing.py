@@ -34,7 +34,7 @@ df.dtypes
 print(df.dtypes)
 
 
-df.describe(include = "all")
+df.describe(include = "all") 
 
 # Question 3: You can select the columns of a dataframe by indicating the name of each column. Apply the method to ".describe()" to the columns 'length' and 'compression-ratio'.
 
